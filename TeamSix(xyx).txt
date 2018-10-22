@@ -1,0 +1,20 @@
+Naijahacks Hackathon 2018
+
+TeamSix(xyx)
+
+Team Members
+David Ndukwe, davidndukwe92@gmail.com
+Phinehas Ubani, eellee546
+
+Section
+Agriculture
+
+Problem
+Low Technologies in the process of production and distribution of agricultural products
+Gender inequality
+
+Proposed solution
+A website that provides social networking for farmers  men and women alike, a marketplace for farmers and consumers, accessible education for farmers on new farming technologies.
+
+Proposed Stack
+HTML5, CSS, JAVASCRIPT.
